@@ -1,1 +1,4 @@
-# Self-Organizing-Map-C
+# Self-Organizing-Map en C
+
+- make
+- ./som
